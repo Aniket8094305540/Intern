@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { Game, GameFilters } from '../types/game';
 
-const API_KEY = '8c7e6d52e5f34c1bb29f0e7c97e9c7e4'; // RAWG API key
+const API_KEY = '47d6d1c7d1514bd69898c0c82912ab71'; // RAWG API key
 const BASE_URL = 'https://api.rawg.io/api';
 
 const api = axios.create({
